@@ -3,7 +3,8 @@
 # About Me
 
 ### 🎓 Education
-I have a **Bachelor's degree** in **Computer Engineering** from **Shahid Chamran University of Ahvaz**.
+* **Master of Science in Artificial Intelligence** — *University of Bologna* (Current)
+* **Bachelor's degree in Computer Engineering** — *Shahid Chamran University of Ahvaz*
 
 ### 🤖 Interests
 I am passionate about **Artificial Intelligence** and its branches.
